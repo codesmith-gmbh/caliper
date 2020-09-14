@@ -1,0 +1,25 @@
+{
+  "name": "caliper",
+  "version": "1.0.0",
+  "description": "CSS/HTML/Clojure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesmith-gmbh/caliper.git"
+  },
+  "author": "Codesmith GmbH",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/codesmith-gmbh/caliper/issues"
+  },
+  "homepage": "https://github.com/codesmith-gmbh/caliper#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-refresh": "^0.8.3",
+    "shadow-cljs": "^2.10.21"
+  }
+}
